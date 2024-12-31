@@ -1,0 +1,15 @@
+.text{
+    position: relative;
+    height: 500px;
+    background-color: aqua;
+    
+}
+.h1{
+    position: absolute;
+    right: 20px;
+    bottom:300px;
+}
+.img{
+    position: fixed;
+    top: 0;
+}
